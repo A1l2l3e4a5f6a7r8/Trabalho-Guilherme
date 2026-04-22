@@ -1,0 +1,99 @@
+body{
+    background-image: url(./img/ChatGPT\ Image\ 21\ de\ abr.\ de\ 2026\,\ 19_31_22.png);
+    
+    padding: 8%;
+}
+
+h1{
+    font-size: 3rem;
+
+}
+.as{
+    font-size: 25px;
+    font-style: oblique;
+    font-weight: 300px;
+}
+
+a {
+  color: rgb(8, 8, 57); 
+}
+
+a:hover {
+  color: rgb(23, 15, 67); 
+}
+
+a:visited {
+  color: rgb(233, 231, 255);
+}
+
+a:active {
+  color: rgb(127, 127, 252); 
+}
+
+p{
+    font-size: 35px;
+}
+
+.Planos{
+    font-size: 3rem;
+}
+
+.planos {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.plano {
+  background: rgb(213, 225, 255);
+  padding: 20px;
+  width: 250px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+.plano h2 {
+  margin-bottom: 10px;
+}
+
+.preco {
+  font-size: 24px;
+  color: rgb(78, 183, 78);
+  font-weight: bold;
+}
+
+.plano ul {
+  list-style: none;
+  padding: 0;
+  margin: 15px 0;
+}
+
+.plano ul li {
+  margin: 5px 0;
+}
+
+.botao {
+  display: inline-block;
+  background: rgb(46, 46, 102);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.botao:hover {
+  background: rgb(46, 46, 131);
+}
+
+/* destaque do plano do meio */
+.destaque {
+  border: 2px solid rgb(209, 183, 39);
+  transform: scale(1.05);
+}
+
+.as{
+border-radius: 30rem, 30rem, 30rem;
+
+}
